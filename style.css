@@ -71,10 +71,7 @@ img{
 }
 
 .box { 
-    width: 250px;
-    margin: 15px;
-    display: inline-block;
-    vertical-align: top;   
+    
 }
 .box img{
     margin: 0;
